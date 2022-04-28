@@ -1,0 +1,17 @@
+.hunter {
+    color: aqua;
+    font-family: 'Quintessential',
+        cursive;
+}
+
+.bg {
+    background-color: purple;
+}
+
+.bgbutton {
+    background-color: black;
+}
+
+.hidden {
+    display: none;
+}
